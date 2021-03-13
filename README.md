@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there Coders!! 👋
 
-<!--
-**Rishabkashyap14/Rishabkashyap14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Rishab, and I am an undergraduate student developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  🔭 My Current interests include:
+    + Machine Intelligence
+    + Data Analytics
+    + Simple Web Development
+    + Cryptography
+- ⚡ Languages I know:
+   C, C++, Python, JAVA, HTML/XML, CSS, JS, Scala, Arduino, ARM, Hadoop, Spark 
+- 📫 How to reach me:
+  + Email: rishabkashyap14@gmail.com
+  + LinkedIn: www.linkedin.com/in/rishab-kashyap-4bb577195  
+- ⚡ Fun facts
+  + I love gaming
+  + I like reading books
+  + Collaborating with people is fun!
