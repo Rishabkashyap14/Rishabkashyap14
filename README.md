@@ -8,7 +8,7 @@ My Name is Rishab, and I am an undergraduate student developer
     + Data Analytics
     + Simple Web Development
     + Cryptography
-- ⚡ Languages I know:
+- 🌱 Languages I know:
    C, C++, Python, JAVA, HTML/XML, CSS, JS, Scala, Arduino, ARM, Hadoop, Spark, SQL 
 - 📫 How to reach me:
   + Email: rishabkashyap14@gmail.com
