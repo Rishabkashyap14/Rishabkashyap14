@@ -13,7 +13,7 @@ My Name is Rishab, and I am an undergraduate student developer
 - 📫 How to reach me:
   + Email: rishabkashyap14@gmail.com
   + LinkedIn: www.linkedin.com/in/rishab-kashyap-4bb577195  
-- ⚡ Fun facts
+- ⚡ My Hobbies 
   + I love gaming
   + I like reading books
   + Collaborating with people is fun!
