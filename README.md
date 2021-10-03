@@ -17,3 +17,7 @@ My Name is Rishab, and I am an undergraduate student developer
   + I love gaming
   + I like reading books
   + Collaborating with people is fun!
+  
+  <a href="https://github.com/sunad30">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rishabkashyap14&layout=compact&theme=dark" />
+  </a>
