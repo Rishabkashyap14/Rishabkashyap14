@@ -9,7 +9,6 @@
     + Simple Web Development
     + Cryptography
 - 🌱 Languages I know:
-   C, C++, Python, JAVA, HTML/XML, CSS, Bootstrap, JS, Node, Arduino, ARM, Hadoop, Spark, SQL, Android Studio, Figma, Git, Github  
    <img width=50px height=50px src="https://img.icons8.com/color/2x/c-programming.png">
    <img width=50px height=50px src="https://img.icons8.com/color/2x/c-plus-plus-logo.png">
    <img width=50px height=50px src="https://img.icons8.com/color/2x/c-sharp-logo.png">
@@ -18,6 +17,7 @@
    <img width=50px height=50px src="https://image.shutterstock.com/image-vector/file-type-icons-xml-outline-260nw-671232778.jpg">
    <img width=50px height=50px src="https://img.icons8.com/color/2x/html-5.png">
    <img width=50px height=50px src="https://img.icons8.com/color/2x/css3.png">
+   <img width=50px height=50px src="https://img.icons8.com/color/2x/bootstrap.png">
    <img width=50px height=50px src="https://img.icons8.com/color/2x/nodejs.png">
    <img width=50px height=50px src="https://img.icons8.com/color/2x/git.png">
    <img width=50px height=50px src="https://img.icons8.com/ios-glyphs/2x/github.png">
