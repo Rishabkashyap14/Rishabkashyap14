@@ -40,10 +40,14 @@
     <a href="https://linkedin.com/in/rishab-kashyap-4bb577195"><img width=50px height=50px src="https://img.icons8.com/fluency/2x/linkedin.png"></a>
     <a href="https://www.instagram.com/rishk_2000/"><img width=50px height=50px src="https://img.icons8.com/fluency/2x/instagram-new.png"></a>
 </p> 
-- ⚡ My Hobbies 
-  + I love gaming
-  + I like reading books
-  + Collaborating with people is fun!
+- ⚡ My Hobbies
+    
+  + I love gaming<img width=30px height=30px src="https://img.icons8.com/color/2x/play-station.png">  
+  + I like reading books<img width=30px height=30px src="https://img.icons8.com/fluency/2x/books.png">
+  + Collaborating with people is fun!<img width=30px height=30px src="https://image.shutterstock.com/image-vector/five-people-team-sitting-working-260nw-291759209.jpg">
+
+  
+    
   
   <a href="https://github.com/Rishabkashyap14">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rishabkashyap14&layout=compact&theme=dark" />
