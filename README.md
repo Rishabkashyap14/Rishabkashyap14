@@ -32,6 +32,7 @@
    <img width=50px height=50px src="https://img.icons8.com/color/2x/amazon-web-services.png">
    <img width=50px height=50px src="https://www.uidownload.com/files/686/425/197/latex-thumb.jpg">
    <img width=50px height=50px src="https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/cpu-ARM-icon.png">
+   <img width=50px height=50px src="https://img.icons8.com/color/2x/ubuntu.png">
    
 - 📫 How to reach me:
   + Email: rishabkashyap14@gmail.com
