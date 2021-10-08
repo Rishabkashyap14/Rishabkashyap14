@@ -8,7 +8,7 @@
     + Data Analytics
     + Simple Web Development
     + Cryptography
-- 🌱 Languages I know:  
+- 🌱 Technologies I work with:  
 
    <img width=50px height=50px src="https://img.icons8.com/color/2x/c-programming.png">
    <img width=50px height=50px src="https://img.icons8.com/color/2x/c-plus-plus-logo.png">
