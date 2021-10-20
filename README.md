@@ -35,9 +35,8 @@
    <img width=50px height=50px src="https://img.icons8.com/color/2x/ubuntu.png">
    
 - 📫 How to reach me:
-  + Email: rishabkashyap14@gmail.com
   <p align="left">
-    <a href="rishabkashyap14@gmail.com"><img width=50px height=50px src="https://img.icons8.com/fluency/2x/gmail-new.png"></a>
+    <a href="mailto:rishabkashyap14@gmail.com"><img width=50px height=50px src="https://img.icons8.com/fluency/2x/gmail-new.png"></a>
     <a href="https://github.com/Rishabkashyap14"><img width=50px height=50px src="https://img.icons8.com/ios-glyphs/2x/github.png"></a>
     <a href="https://linkedin.com/in/rishab-kashyap-4bb577195"><img width=50px height=50px src="https://img.icons8.com/fluency/2x/linkedin.png"></a>
     <a href="https://www.instagram.com/rishk_2000/"><img width=50px height=50px src="https://img.icons8.com/fluency/2x/instagram-new.png"></a>
