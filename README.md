@@ -3,13 +3,13 @@
 #### My Name is Rishab, and I am an undergraduate student developer
 
 ---
--  🔭 My Current interests include:
+-  🔭 __My Current interests include:__
     + Machine Intelligence
     + Data Analytics
     + Simple Web Development
     + Cryptography
 ---  
-- 🌱 Technologies I work with:  
+- 🌱 __Technologies I work with:__  
 
    <img width=50px height=50px src="https://img.icons8.com/color/2x/c-programming.png">
    <img width=50px height=50px src="https://img.icons8.com/color/2x/c-plus-plus-logo.png">
@@ -36,7 +36,7 @@
    <img width=50px height=50px src="https://img.icons8.com/color/2x/ubuntu.png">     
 
 ---  
-- 📫 How to reach me:
+- 📫 __How to reach me:__
   <p align="left">
     <a href="mailto:rishabkashyap14@gmail.com"><img width=50px height=50px src="https://img.icons8.com/fluency/2x/gmail-new.png"></a>
     <a href="https://github.com/Rishabkashyap14"><img width=50px height=50px src="https://img.icons8.com/ios-glyphs/2x/github.png"></a>
@@ -45,16 +45,13 @@
 </p> 
 
 ---
-- ⚡ My Hobbies
+- ⚡ __My Hobbies__
     
   + I love gaming<img width=30px height=30px src="https://img.icons8.com/color/2x/play-station.png">  
   + I like reading books<img width=30px height=30px src="https://img.icons8.com/fluency/2x/books.png">
   + Collaborating with people is fun!<img width=30px height=30px src="https://image.shutterstock.com/image-vector/five-people-team-sitting-working-260nw-291759209.jpg">
 ---   
-
-  
-    
   
   <a href="https://github.com/Rishabkashyap14">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rishabkashyap14&layout=compact&theme=dark" />
-  </a>
+  </a>  
