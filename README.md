@@ -2,12 +2,13 @@
 
 #### My Name is Rishab, and I am an undergraduate student developer
 
-
+---
 -  🔭 My Current interests include:
     + Machine Intelligence
     + Data Analytics
     + Simple Web Development
     + Cryptography
+---  
 - 🌱 Technologies I work with:  
 
    <img width=50px height=50px src="https://img.icons8.com/color/2x/c-programming.png">
@@ -33,7 +34,7 @@
    <img width=50px height=50px src="https://www.uidownload.com/files/686/425/197/latex-thumb.jpg">
    <img width=50px height=50px src="https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/cpu-ARM-icon.png">
    <img width=50px height=50px src="https://img.icons8.com/color/2x/ubuntu.png">
-   
+---     
 - 📫 How to reach me:
   <p align="left">
     <a href="mailto:rishabkashyap14@gmail.com"><img width=50px height=50px src="https://img.icons8.com/fluency/2x/gmail-new.png"></a>
@@ -41,11 +42,13 @@
     <a href="https://linkedin.com/in/rishab-kashyap-4bb577195"><img width=50px height=50px src="https://img.icons8.com/fluency/2x/linkedin.png"></a>
     <a href="https://www.instagram.com/rishk_2000/"><img width=50px height=50px src="https://img.icons8.com/fluency/2x/instagram-new.png"></a>
 </p> 
+---  
 - ⚡ My Hobbies
     
   + I love gaming<img width=30px height=30px src="https://img.icons8.com/color/2x/play-station.png">  
   + I like reading books<img width=30px height=30px src="https://img.icons8.com/fluency/2x/books.png">
   + Collaborating with people is fun!<img width=30px height=30px src="https://image.shutterstock.com/image-vector/five-people-team-sitting-working-260nw-291759209.jpg">
+--- 
 
   
     
