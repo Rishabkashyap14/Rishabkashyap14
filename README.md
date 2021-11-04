@@ -52,4 +52,9 @@
   + Collaborating with people is fun!<img width=30px height=30px src="https://image.shutterstock.com/image-vector/five-people-team-sitting-working-260nw-291759209.jpg">
 ---   
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rishabkashyap14&layout=compact&theme=dark" /> 
+![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabkashyap14&show_icons=true&theme=synthwave)
+
+---  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabkashyap14&theme=cobalt)](https://github.com/Rishabkashyap14/github-readme-stats)
+
+
