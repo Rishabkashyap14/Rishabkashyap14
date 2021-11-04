@@ -51,7 +51,5 @@
   + I like reading books<img width=30px height=30px src="https://img.icons8.com/fluency/2x/books.png">
   + Collaborating with people is fun!<img width=30px height=30px src="https://image.shutterstock.com/image-vector/five-people-team-sitting-working-260nw-291759209.jpg">
 ---   
-  
-  <a href="https://github.com/Rishabkashyap14">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rishabkashyap14&layout=compact&theme=dark" />
-  </a>  
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rishabkashyap14&layout=compact&theme=dark" /> 
