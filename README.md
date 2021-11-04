@@ -50,10 +50,6 @@
   + I love gaming<img width=30px height=30px src="https://img.icons8.com/color/2x/play-station.png">  
   + I like reading books<img width=30px height=30px src="https://img.icons8.com/fluency/2x/books.png">
   + Collaborating with people is fun!<img width=30px height=30px src="https://image.shutterstock.com/image-vector/five-people-team-sitting-working-260nw-291759209.jpg">
----   
-
-![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabkashyap14&show_icons=true&theme=synthwave)
-
 ---  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabkashyap14&theme=cobalt)](https://github.com/Rishabkashyap14/github-readme-stats)
 
