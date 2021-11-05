@@ -1,7 +1,6 @@
 ## Hello there Coders!! 👋
 
 #### My Name is Rishab, and I am an undergraduate student developer  
-#### My <a href="https://drive.google.com/file/d/1CKW7tgHjaCUdiOWr_I8ESww3rcWfxnWa/view?usp=sharing"> Resume </a>
 
 ---
 -  🔭 __My Current interests include:__
