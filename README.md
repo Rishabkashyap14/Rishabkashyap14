@@ -6,7 +6,7 @@
 -  🔭 __My Current interests include:__
     + Machine Intelligence
     + Data Analytics
-    + Simple Web Development
+    + Web Development
     + Cryptography
 ---  
 - 🌱 __Technologies I work with:__  
