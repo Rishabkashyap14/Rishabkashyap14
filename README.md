@@ -1,6 +1,6 @@
 ## Hello there Coders!! 👋
 
-#### My Name is Rishab, and I am an undergraduate student developer  
+#### My Name is Rishab, and I am a graduate student developer  
 
 ---
 -  🔭 __My Current interests include:__
