@@ -1,6 +1,6 @@
 ## Hello there Coders!! 👋
 
-#### My Name is Rishab, and I am a graduate student developer  
+#### My Name is Rishab, and I am a graduate student in Computer Science. I love programming and learning new concepts in my field of interest!  
 
 ---
 -  🔭 __My Current interests include:__
