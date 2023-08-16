@@ -4,6 +4,7 @@
 
 ---
 -  🔭 __My Current interests include:__
+    + Quantum Computing
     + Machine Intelligence
     + Data Analytics
     + Software Development
