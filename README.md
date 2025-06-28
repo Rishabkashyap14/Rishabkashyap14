@@ -1,6 +1,6 @@
 ## Hello there Coders!! 👋
 
-#### My Name is Rishab, and I am a graduate student in Computer Science. I love programming and learning new concepts in my field of interest!  
+#### My Name is Rishab, and I am a graduate student in Computer Science at Arizona State University. I love programming and learning new concepts in my field of interest!  
 
 ---
 -  🔭 __My Current interests include:__
