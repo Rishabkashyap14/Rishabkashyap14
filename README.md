@@ -4,11 +4,10 @@
 
 ---
 -  🔭 __My Current interests include:__
+    + Distributed Training Mechanisms
+    + Optimization Algorithms in Machine Learning
     + Quantum Computing
-    + Machine Intelligence
-    + Data Analytics
-    + Software Development
-    + Cryptography
+    + Reinforcement Learning
 ---  
 - 🌱 __Technologies I work with:__  
 
